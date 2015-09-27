@@ -1,0 +1,6 @@
+/.crystal
+/libs
+/bin/shards
+/test/.repositories
+/test/.libs
+/tmp
